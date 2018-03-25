@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.Player1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.Player2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
