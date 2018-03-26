@@ -2,19 +2,14 @@ document.addEventListener('DOMContentLoaded', function() { });
 
 alert("Are you ready to rumble!");
 
-//Calls for Player1
-const player1 = ()=> {
-    document.getElementById('player1').press(97);
-};
-//Calls for Player2
 
-const player2 = ()=> {
-    document.getElementById('player1').press(108);
-};
+const player1 = document.QuerySelector('#player1')
+const player2 = document.QuerySelector('#player2')
 
-document.onkeypress = function(e) {
-    e = e || window.event; var charCode = e.charCode || e.keyCode, character = String.fromCharCode(charCode);
-        console.log(charCode); };
+const movePlayer = (event) => {
+    if(e.keyCode===97)
+    function};
 
 
 
+document.addEventListener('keyup', movePlayer)
