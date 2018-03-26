@@ -1,1 +1,3 @@
-alert("Are you ready to rumble!")
+alert("Are you ready to rumble!");
+
+document.getElementById('eventClick');

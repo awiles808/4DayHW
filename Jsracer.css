@@ -2,25 +2,25 @@ h1 {
     font-family: 'Oswald', sans-serif;
     font-size: 50px;
     text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    color: white;
 
 }
 
-.Player1{
-    font-family: 'Oswald', sans-serif;
-    font-size: 30px;
-    padding-top: 140px;
-    padding-bottom: 140px;
-    padding-left: 10px;
-    padding-right: 10px;
+.racer_table td {
+  background-color: #404448;
+  height: 100px;
+  width: 100px;
+  padding: 20px 40px 20px 40px;
+
 
 }
 
-.Player2{
-    font-family: 'Oswald', sans-serif;
-    font-size: 30px;
-    padding-top: 140px;
-    padding-bottom: 140px;
-    padding-left: 10px;
-    padding-right: 10px;
+.racer_table td.start1 {
+  background-color: red;
+}
 
+.racer_table td.start2 {
+  background-color: blue;
 }
