@@ -13,6 +13,8 @@ h1 {
     width: 100px;
     outline: 1px solid black;
     position: relative;
+    left: 0;
+
 }
 
 #player2{
@@ -20,4 +22,4 @@ h1 {
     width: 100px;
     outline: 1px solid black;
     position: relative;
-}
+
