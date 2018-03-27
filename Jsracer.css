@@ -8,14 +8,14 @@ h1 {
 
 }
 
-#Racer1{
+#player1{
     height: 150px;
     width: 100px;
     outline: 1px solid black;
     position: relative;
 }
 
-#Racer2{
+#player2{
     height: 150px;
     width: 100px;
     outline: 1px solid black;
