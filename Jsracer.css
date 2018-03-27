@@ -8,18 +8,16 @@ h1 {
 
 }
 
-.racer_table td {
-    background-color: white;
-    height: 100px;
+#Racer1{
+    height: 150px;
     width: 100px;
-    padding: 20px 40px 20px 40px;
-
+    outline: 1px solid black;
+    position: relative;
 }
 
-.player1 tr {
-    background-color: white;
-    height: 100px;
+#Racer2{
+    height: 150px;
     width: 100px;
-    padding: 20px 40px 20px 40px;
+    outline: 1px solid black;
+    position: relative;
 }
-

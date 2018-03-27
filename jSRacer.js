@@ -1,37 +1,42 @@
-document.addEventListener('DOMContentLoaded', function() { });
-
-alert("Are you ready to rumble!");
-
-
- const player1 = document.QuerySelector('#player1')
-     if(e.keyCode===97)
-
-
-
-const player2 = document.QuerySelector('#player2')
 
 
 
 
 
+ document.addEventListener('DOMContentLoaded', function() { });
+
+ alert("Are you ready to rumble!");
+
+
+  const Racer1 = document.QuerySelector('#Racer1')
+      if(e.keyCode===97);
 
 
 
-//document.addEventListener('keyup', movePlayer);
-
-
-
-//////////////////////////////////////////////////
-
-//////////////////////////////////////////////////
+ const Racer2 = document.QuerySelector('#Racer2')
 
 
 
 
-// const checkKeyPressed = (key) => {
-//     if (key.keyCode == '97') {
-//         alert("The 'k' letter key has been pressed!");
-//     }
-// };
 
-// window.addEventListener('keydown', checkKeyPressed, false);
+
+
+
+document.addEventListener('keyup', movePlayer);
+
+
+
+// //////////////////////////////////////////////////
+
+// //////////////////////////////////////////////////
+
+
+
+
+// // const checkKeyPressed = (key) => {
+// //     if (key.keyCode == '97') {
+// //         alert("The 'k' letter key has been pressed!");
+// //     }
+// // };
+
+// // window.addEventListener('keydown', checkKeyPressed, false);
