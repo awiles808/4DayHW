@@ -1,5 +1,10 @@
+
+
+
+
+
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'CHLORNIP', sans-serif;
     font-size: 50px;
     text-align: center;
     padding-top: 0px;
@@ -8,18 +13,26 @@ h1 {
 
 }
 
+
 #player1{
-    height: 150px;
-    width: 100px;
-    outline: 1px solid black;
+    height: 200px;
+    width: 250px;
+    /*outline: 1px solid black;*/
     position: relative;
     left: 0;
+    background-image: url('https://files.gamebanana.com/img/ico/sprays/koopa.gif')
+
+
 
 }
 
 #player2{
-    height: 150px;
-    width: 100px;
-    outline: 1px solid black;
+    height: 140px;
+    width: 143px;
+    /*outline: 1px solid black;*/
     position: relative;
+    background-image: url('https://orig00.deviantart.net/de7a/f/2016/345/c/d/super_mario_run_by_t_free-daraj8q.gif')
+
+}
+
 
